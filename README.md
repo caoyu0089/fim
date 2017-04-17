@@ -1,5 +1,6 @@
 # fim
-GA-Apriori.cpp and PSO-Apriori.cpp are the C++ Implementations of GA-Apriori and PSO-Apriori algorithms. 
+GA-Apriori.cpp: C++ Implementations of GA-Apriori and GAFIM
+PSO-Apriori.cpp:  C++ Implementations of PSO-Apriori and PSOFIM
 
 
 To run the implementation: 
